@@ -1,5 +1,7 @@
 # Terraform AWS EC2 Userdata Module
 
+**This module is no longer being maintained** <br/>
+
 This module is intended to help standardise user data components that repeat for a range of EC2 instances. Encapsulating commonly installed components in this module should reduce the complexity of having a consistent EC2 management componenets isntalled and correctly configured.
 
 ## UserData Options
